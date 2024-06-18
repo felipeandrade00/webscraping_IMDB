@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	// Instanciano o coletor, a partir do módulo Colly
+	// Instanciando o coletor, a partir do módulo Colly
 	c := colly.NewCollector()
 
 	// Lista pra receber os dados
